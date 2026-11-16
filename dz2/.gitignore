@@ -1,0 +1,6 @@
+__pycache__/
+.pytest_cache/
+.coverage
+.venv/
+final_grades.csv
+demo_final_grades.csv
